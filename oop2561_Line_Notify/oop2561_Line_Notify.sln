@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop2561_Line_Notify", "oop2561_Line_Notify\oop2561_Line_Notify.csproj", "{3D86D289-0F8E-46A7-9F9C-F14DFAFB8F08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D86D289-0F8E-46A7-9F9C-F14DFAFB8F08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D86D289-0F8E-46A7-9F9C-F14DFAFB8F08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D86D289-0F8E-46A7-9F9C-F14DFAFB8F08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D86D289-0F8E-46A7-9F9C-F14DFAFB8F08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A618F1AF-759D-4B63-B157-44EE6591BECD}
+	EndGlobalSection
+EndGlobal
