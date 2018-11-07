@@ -18,6 +18,8 @@ namespace oop2561_Line_Notify
         {
             InitializeComponent();
         }
+
+
     }
 
     public class LineNotify
