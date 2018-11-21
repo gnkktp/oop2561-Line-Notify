@@ -19,6 +19,14 @@ namespace oop2561_Line_Notify
             InitializeComponent();
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string token = "VWr1xE6wu6FJyttVjGFQDmOw6asrQQRStitfIg9bbWu"; // token for group OdorNotify
+
+            LineNotify lineNotify = new LineNotify();
+            HttpWebResponse response = lineNotify.LINENotify(textBox1.Text, token);
+            textBox2.Text = response.StatusCode.ToString();
+        }
     }
 
     public class LineNotify
